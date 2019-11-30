@@ -1,5 +1,5 @@
 # :sunny:Qt 控件、项目合集
-基于Qt写的控件、项目合集，包含：
+Qt写的控件、项目合集，包含：
 - Qt仿手机通讯录：Qt-Qml-Contacts
 - Qt结合Echarts绘图：Qt-Qml-Echarts
 - Qt无限滚动日历控件：Qt-Qml-Calendar
@@ -14,9 +14,9 @@ Qt/QML做的一个仿手机通讯录界面，效果：
 
 ###  Qt-Qml-Echarts
 
-Baidu-Echarts For Qt/QML. Just a demo for using, detail：
+Qt/QML使用WebEngine展示的百度ECharts图表Demo，博客链接：
 
-![](![](https://image.licoba.top/superbed/2018/11/20/5bf3baccc4ff9e1b63fc074c.jpg))
+https://blog.csdn.net/silence__star/article/details/84304921
 
 ###  Qt-Qml-Calendar
 
