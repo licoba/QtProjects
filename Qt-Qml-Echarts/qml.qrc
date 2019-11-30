@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>test.html</file>
+        <file>MyWebView.qml</file>
+        <file>main.qml</file>
+        <file>echarts.js</file>
+    </qresource>
+</RCC>
