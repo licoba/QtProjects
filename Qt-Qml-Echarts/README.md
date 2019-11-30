@@ -7,3 +7,9 @@ Baidu-Echarts For Qt/QML. Just a demo for using.
 ## Detail For Using
 
 [QT QML结合ECharts绘图](https://www.licoba.top/index.php/archives/189/)
+
+
+## Notice
+
+Require：You need to install Visual Studio on your computer, and choose msvc201x 64bit to compile this project.
+(Because QT webengine module needs it)
