@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/arrowleft.png</file>
+        <file>icon/arrowright.png</file>
+        <file>Day.qml</file>
+        <file>DayTemplet.qml</file>
+        <file>main.cpp</file>
+        <file>main.qml</file>
+        <file>qml.qrc</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>Rili.pro</file>
+        <file>OneMonth.qml</file>
+    </qresource>
+</RCC>

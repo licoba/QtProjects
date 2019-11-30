@@ -18,3 +18,5 @@ Baidu-Echarts For Qt/QML. Just a demo for using, detail：
 ###  Qt-Qml-Calendar
 
 基于PathView，Qt/QML做的一个可以无限滚动的日历控件，效果：
+
+![](https://github.com/licoba/QtProjects/blob/master/Qt-Qml-Calendar/icon/demo.gif)
