@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>AddressList.qml</file>
+        <file>main.qml</file>
+        <file>Pinyin.js</file>
+    </qresource>
+</RCC>
