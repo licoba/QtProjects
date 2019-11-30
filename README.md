@@ -1,5 +1,8 @@
-# QtProjects
-Qt 控件、项目合集
+# :sunny:Qt 控件、项目合集
+基于Qt写的控件、项目合集，包含：
+- Qt仿手机通讯录：Qt-Qml-Contacts
+- Qt结合Echarts绘图：Qt-Qml-Echarts
+- Qt无限滚动日历控件：Qt-Qml-Calendar
 
 ## 项目说明
 
