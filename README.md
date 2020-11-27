@@ -14,8 +14,9 @@ Qt/QML做的一个仿手机通讯录界面，效果：
 
 ###  :blush:Qt-Qml-Echarts
 
-Qt/QML使用WebEngine展示的百度ECharts图表Demo，效果：
+Qt/QML使用WebEngine展示的百度ECharts图表Demo，效果：<br>
 ![](https://pic.downk.cc/item/5fc0588315e7719084459bc7.jpg)
+
 相关博客链接
 https://blog.csdn.net/silence__star/article/details/84304921
 
